@@ -1,0 +1,1 @@
+This is a disease outbreak prediction application built using Streamlit. Users can input their medical details, and the application predicts the likelihood of diabetes and heart disease based on the provided data. The model utilizes machine learning algorithms to analyze health parameters and provide predictions, helping users assess their health risks.
